@@ -89,8 +89,7 @@ body {
 
 .mobile {
     display: none;
-    flex-direction: column;
-    gap: 2px;
+    
 }
 
 
@@ -806,6 +805,10 @@ body {
     width: 100%;
 }
 
+.line-c {
+    background-color: brown;
+}
+
 
 
 .p-text {
@@ -837,7 +840,7 @@ body {
     align-items: center;
 }
 
-.line {
+.line-c {
     height: 120px;
     min-width: 1px;
     width: 1px;

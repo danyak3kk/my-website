@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+
+.w1200 {
+    display: flex;
+    width: 96%;
+    max-width: 1200px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+}
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.m4line {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.line {
+    display: flex;
+    background-color: black;
+    width: 18px;
+    height: 2px;
+}
+
+.header-img {
+    width: 120px;
+}
+
+
+
+.b {
+    margin: 5px;
+    height: 20px;
+    width: 100px;
+    background-color: red;
+}

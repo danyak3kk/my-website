@@ -203,7 +203,7 @@
 
     .input-heading {
         margin-left: 7px;
-        width: 100%;
+        width: 90%;
     }
 
     .second-row {
@@ -456,10 +456,11 @@
             min-width: 280px;
             max-width: 360px;
             width: 70%;
-            gap: 10px;
+            gap: 13px;
             flex-wrap: wrap;
         }
 
+        
         .image-text-cont {
             width: 125px;
         }
@@ -468,8 +469,9 @@
 
 
         .mobile {
-            display: flex;
+            display: flex;  
             flex-direction: column;
+            gap: 2px;
         }
 
         .text-container {
