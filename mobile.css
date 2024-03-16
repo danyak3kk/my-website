@@ -326,8 +326,13 @@
 
 
 
-    .image-dis-cont {
-        width: 100%;
+    .image-dis-cont { 
+        width: 100%;      
+    }
+
+    .dis-img {
+        height: 130px;
+        width: auto;
     }
 
     .text-dis-cont {
